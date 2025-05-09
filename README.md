@@ -21,4 +21,4 @@ A simple in-memory To-Do List REST API built with **Node.js** core modules (`htt
 Clone the repo and run:
 
 ```bash
-node todoServer2.js 3000
+node todoServer.js 3000
